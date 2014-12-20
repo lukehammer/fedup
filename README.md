@@ -1,6 +1,5 @@
 fedup
 =====
-
-this is a app designed for magicians to help keep track of there magical performances 
+is a package factory managment game 
 
 This should be the secon project that you should attempt to work with. 
